@@ -1,5 +1,7 @@
 /*
-Function As
+Function Sebagai Parameter
+
+Function di Golang adalah first class yang bisa beraad di posisi mana aja..
 
 */
 
